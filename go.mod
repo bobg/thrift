@@ -1,3 +1,3 @@
-module github.com/apache/thrift
+module github.com/bobg/thrift
 
 go 1.16
